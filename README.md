@@ -9,10 +9,3 @@
 - 📱 Fully responsive and mobile-friendly design
 - 🌙 Clean dark-mode-ready UI
 
-## 🛠️ Tech Stack
-
-- React
-- React Router
-- Tailwind CSS
-- Markdown (optional for content)
-
