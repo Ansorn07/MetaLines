@@ -8,6 +8,3 @@
 - 🔎 Search and filter by topics or tags
 - 📱 Fully responsive and mobile-friendly design
 - 🌙 Clean dark-mode-ready UI
-
-
-
