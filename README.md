@@ -2,6 +2,7 @@
 
 **MetaLines** is a sleek and modern blog website built for sharing ideas, stories, and insights with clarity and style.
 
+
 ## 🚀 Features
 
 - ✍️ Create, edit, and delete blog posts
